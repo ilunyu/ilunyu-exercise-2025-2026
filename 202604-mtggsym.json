@@ -1,5 +1,13 @@
 {
   "id": "202604-mtgym",
+  "title": "2026·门头沟一模",
+  "year": "2025-2026",
+  "month": 202604,
+  "source": "门头沟",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -88,13 +96,5 @@
       "text": "评分说明：联系① 2 分，联系③ 3 分，答出劝学可得 1 分，意思接近即可。",
       "format": {}
     }
-  ],
-  "title": "2026·门头沟一模",
-  "year": "2025-2026",
-  "month": 202604,
-  "source": "门头沟",
-  "type": "一模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

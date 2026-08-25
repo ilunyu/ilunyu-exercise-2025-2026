@@ -1,5 +1,13 @@
 {
   "id": "202604-xcgsym",
+  "title": "2026·西城一模",
+  "year": "2025-2026",
+  "month": 202604,
+  "source": "西城",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -131,13 +139,5 @@
       "text": "评分参考：两个空，每一空 1 分。意思对即可。",
       "format": {}
     }
-  ],
-  "title": "2026·西城一模",
-  "year": "2025-2026",
-  "month": 202604,
-  "source": "西城",
-  "type": "一模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

@@ -1,5 +1,13 @@
 {
   "id": "202511-tzgsqz",
+  "title": "2025·通州高三期中",
+  "year": "2025-2026",
+  "month": 202511,
+  "source": "通州",
+  "grade": 3,
+  "type": "期中",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -160,13 +168,5 @@
       "text": "共6分。每个角度占2分。言之成理即可酌情给分。",
       "format": {}
     }
-  ],
-  "title": "2025·通州高三期中",
-  "year": "2025-2026",
-  "month": 202511,
-  "source": "通州",
-  "type": "期中",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

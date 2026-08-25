@@ -1,5 +1,13 @@
 {
   "id": "202604-pgym",
+  "title": "2026·平谷一模",
+  "year": "2025-2026",
+  "month": 202604,
+  "source": "平谷",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -107,13 +115,5 @@
       "text": "每点 2 分。",
       "format": {}
     }
-  ],
-  "title": "2026·平谷一模",
-  "year": "2025-2026",
-  "month": 202604,
-  "source": "平谷",
-  "type": "一模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

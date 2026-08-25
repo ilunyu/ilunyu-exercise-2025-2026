@@ -1,5 +1,13 @@
 {
   "id": "202511-cygsq",
+  "title": "2025·朝阳高三期中",
+  "year": "2025-2026",
+  "month": 202511,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "期中",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -180,13 +188,5 @@
         }
       }
     }
-  ],
-  "title": "2025·朝阳高三期中",
-  "year": "2025-2026",
-  "month": 202511,
-  "source": "朝阳",
-  "type": "期中",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

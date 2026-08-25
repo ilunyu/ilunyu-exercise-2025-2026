@@ -1,5 +1,13 @@
 {
   "id": "202604-ftym",
+  "title": "2026·丰台一模",
+  "year": "2025-2026",
+  "month": 202604,
+  "source": "丰台",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -88,13 +96,5 @@
       "text": "评分标准：共 6 分。对三个人处世态度的评价各 2 分。意思对即可。",
       "format": {}
     }
-  ],
-  "title": "2026·丰台一模",
-  "year": "2025-2026",
-  "month": 202604,
-  "source": "丰台",
-  "type": "一模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

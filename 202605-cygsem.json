@@ -1,5 +1,13 @@
 {
   "id": "202605-cygsem",
+  "title": "2026·朝阳二模",
+  "year": "2025-2026",
+  "month": 202605,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -128,13 +136,5 @@
       "text": "评分参考：①②各 2 分，③ 1 分。意思对即可。",
       "format": {}
     }
-  ],
-  "title": "2026·朝阳二模",
-  "year": "2025-2026",
-  "month": 202605,
-  "source": "朝阳",
-  "type": "二模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }

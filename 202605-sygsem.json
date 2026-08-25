@@ -1,5 +1,13 @@
 {
   "id": "202605-sygsem",
+  "title": "2026·顺义二模",
+  "year": "2025-2026",
+  "month": 202605,
+  "source": "顺义",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 10,
   "question": [
     {
       "type": "regular",
@@ -142,13 +150,5 @@
         }
       }
     }
-  ],
-  "title": "2026·顺义二模",
-  "year": "2025-2026",
-  "month": 202605,
-  "source": "顺义",
-  "type": "二模",
-  "grade": 3,
-  "number": 11,
-  "score": 10
+  ]
 }
