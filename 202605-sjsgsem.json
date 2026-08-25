@@ -1,66 +1,190 @@
 {
-    "id": "202605-sjsgsem",
-    "metadata": {
-        "title": "2026·石景山二模",
-        "year": "2025-2026",
-        "month": 202605,
-        "source": "石景山",
-        "type": "二模",
-        "grade": 3,
-        "question": 11,
-        "score": 10
+  "id": "202605-sjsgsem",
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面五则材料，按要求回答问题。（共10分）",
+      "format": {}
     },
-    "question": [
+    {
+      "type": "material",
+      "sourceid": 112,
+      "paragraphs": [
         {
-            "type": "question",
-            "content": "阅读下面五则材料，按要求回答问题。（共10分）"
-        },
-        {
-            "type": "material",
-            "content": "①有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼节之，亦不可行也。”(《论语·学而》)",
-            "sourceid": 112
-        },
-        {
-            "type": "material",
-            "content": "②子谓《韶》:“尽美矣，又尽善也。”谓《武》:“尽美矣，未尽善也。”(《论语·八佾》)",
-            "sourceid": 325
-        },
-        {
-            "type": "material",
-            "content": "③子曰：“里仁为美。择不处仁，焉得知?”(《论语·里仁》)",
-            "sourceid": 409
-        },
-        {
-            "type": "material",
-            "content": "④子曰：“如有周公之才之美，使骄且吝，其余不足观也已。”(《论语·泰伯》)",
-            "sourceid": 811
-        },
-        {
-            "type": "material",
-            "content": "⑤子曰：“君子成人之美，不成人之恶；小人反是。”(《论语·颜渊》)",
-            "sourceid": 1216
-        },
-        {
-            "type": "question",
-            "content": "（1）下列是源于材料②⑤的两个成语及其释义。较于原材料，其中“美”的含义都发生了变化。请分别说明。(4分)"
-        },
-        {
-            "type": "annotation",
-            "content": ">2 尽善尽美：非常完美，没有缺陷。\n>2 成人之美：成全人家的好事。"
-        },
-        {
-            "type": "question",
-            "content": "（2）上述五则材料，关于“美”的主张体现在哪些方面，请具体说明。(6分)"
+          "text": "①有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼节之，亦不可行也。”(《论语·学而》)",
+          "format": {}
         }
-    ],
-    "answer": [
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 325,
+      "paragraphs": [
         {
-            "content": "（1）（4分）\n>h1 ①“尽善尽美”中“完美”的“美”，在材料②中是“声音优美”的意思。\n>h1 ②“成人之美”中“好事”的“美”，在材料⑤中是“美德善行”的意思。",
-            "tip": "每点 2 分，答案意思对即可。"
-        },
-        {
-            "content": "（2）（6分）\n>h1 ①“美”与“和”统一：礼的运用以和谐为贵，和谐是美的体现。\n>h1 ②“美”与“善”统一：好的音乐不但形式优美，更要内容完善。\n>h1 ③“美”与“仁”统一：居住的环境要选择有仁德的地方，美离不开仁。\n>h1 ④“美”与“才德”统一：即使有周公那样的才能和美貌，如果骄傲吝啬也不值得称道。\n>h1 ⑤“美”与“善行”统一：君子要成全别人的美德善行。",
-            "tip": "每点 2 分，答出 3 点得满分。"
+          "text": "②子谓《韶》:“尽美矣，又尽善也。”谓《武》:“尽美矣，未尽善也。”(《论语·八佾》)",
+          "format": {}
         }
-    ]
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 409,
+      "paragraphs": [
+        {
+          "text": "③子曰：“里仁为美。择不处仁，焉得知?”(《论语·里仁》)",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 811,
+      "paragraphs": [
+        {
+          "text": "④子曰：“如有周公之才之美，使骄且吝，其余不足观也已。”(《论语·泰伯》)",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1216,
+      "paragraphs": [
+        {
+          "text": "⑤子曰：“君子成人之美，不成人之恶；小人反是。”(《论语·颜渊》)",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）下列是源于材料②⑤的两个成语及其释义。较于原材料，其中“美”的含义都发生了变化。请分别说明。(4分)",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "尽善尽美：非常完美，没有缺陷。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "成人之美：成全人家的好事。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）上述五则材料，关于“美”的主张体现在哪些方面，请具体说明。(6分)",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①“尽善尽美”中“完美”的“美”，在材料②中是“声音优美”的意思。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②“成人之美”中“好事”的“美”，在材料⑤中是“美德善行”的意思。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "每点 2 分，答案意思对即可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（6分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①“美”与“和”统一：礼的运用以和谐为贵，和谐是美的体现。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②“美”与“善”统一：好的音乐不但形式优美，更要内容完善。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③“美”与“仁”统一：居住的环境要选择有仁德的地方，美离不开仁。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "④“美”与“才德”统一：即使有周公那样的才能和美貌，如果骄傲吝啬也不值得称道。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "⑤“美”与“善行”统一：君子要成全别人的美德善行。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 1
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "每点 2 分，答出 3 点得满分。",
+      "format": {}
+    }
+  ],
+  "title": "2026·石景山二模",
+  "year": "2025-2026",
+  "month": 202605,
+  "source": "石景山",
+  "type": "二模",
+  "grade": 3,
+  "number": 11,
+  "score": 10
 }
