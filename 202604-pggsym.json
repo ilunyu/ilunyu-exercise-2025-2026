@@ -1,5 +1,5 @@
 {
-  "id": "202604-pgym",
+  "id": "202604-pggsym",
   "title": "2026·平谷一模",
   "year": "2025-2026",
   "month": 202604,
@@ -16,36 +16,42 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 1424,
+      "sourcename": "《宪问》",
       "paragraphs": [
         {
-          "text": "①子曰：“古之学者为己，今之学者为人。”（《宪问》）",
+          "text": "子曰：“古之学者为己，今之学者为人。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 706,
+      "sourcename": "《述而》",
       "paragraphs": [
         {
-          "text": "②子曰：“志于道，据于德，依于仁，游于艺。”（《述而》）",
+          "text": "子曰：“志于道，据于德，依于仁，游于艺。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 1305,
+      "sourcename": "《子路》",
       "paragraphs": [
         {
-          "text": "③子曰：“诵《诗》三百，授之以政，不达；使于四方，不能专对；虽多，亦奚以为？”（《子路》）",
+          "text": "子曰：“诵《诗》三百，授之以政，不达；使于四方，不能专对；虽多，亦奚以为？”",
           "format": {
             "marks": {
               "emphasis": [
                 {
-                  "start": 18,
-                  "end": 19
+                  "start": 17,
+                  "end": 18
                 }
               ]
             }
@@ -55,20 +61,24 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 1913,
+      "sourcename": "《子张》",
       "paragraphs": [
         {
-          "text": "④子夏曰：“仕而优则学，学而优则仕。”（《子张》）",
+          "text": "子夏曰：“仕而优则学，学而优则仕。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 408,
+      "sourcename": "《里仁》",
       "paragraphs": [
         {
-          "text": "⑤子曰：“朝闻道，夕死可矣。”（《里仁》）",
+          "text": "子曰：“朝闻道，夕死可矣。”",
           "format": {}
         }
       ]

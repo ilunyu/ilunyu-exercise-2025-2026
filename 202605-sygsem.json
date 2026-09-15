@@ -16,16 +16,18 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 108,
+      "sourcename": "《学而》",
       "paragraphs": [
         {
-          "text": "①子曰：“君子不重则不威，学则不固。主忠信，无友不如己者，过则勿惮改。”（《学而》）",
+          "text": "子曰：“君子不重则不威，学则不固。主忠信，无友不如己者，过则勿惮改。”",
           "format": {
             "marks": {
               "underline": [
                 {
-                  "start": 13,
-                  "end": 17
+                  "start": 12,
+                  "end": 16
                 }
               ]
             }
@@ -35,20 +37,24 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 904,
+      "sourcename": "《子罕》",
       "paragraphs": [
         {
-          "text": "②子绝四：毋意、毋必、毋固、毋我。（《子罕》）",
+          "text": "子绝四：毋意、毋必、毋固、毋我。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 1432,
+      "sourcename": "《宪问》",
       "paragraphs": [
         {
-          "text": "③微生亩谓孔子曰：“丘何为是栖栖【1】者与？无乃为佞【2】乎？”孔子曰：“非敢为佞也，疾【3】固也。”（《宪问》）",
+          "text": "微生亩谓孔子曰：“丘何为是栖栖【1】者与？无乃为佞【2】乎？”孔子曰：“非敢为佞也，疾【3】固也。”",
           "format": {}
         }
       ]

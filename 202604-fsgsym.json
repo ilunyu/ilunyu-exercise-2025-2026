@@ -1,5 +1,5 @@
 {
-  "id": "202604-fsym",
+  "id": "202604-fsgsym",
   "title": "2026·房山一模",
   "year": "2025-2026",
   "month": 202604,
@@ -16,56 +16,66 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 101,
+      "sourcename": "《论语·学而》",
       "paragraphs": [
         {
-          "text": "①子曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”（《论语·学而》）",
+          "text": "子曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 213,
+      "sourcename": "《论语·为政》",
       "paragraphs": [
         {
-          "text": "②子贡问君子，子曰：“先行其言而后从之。”（《论语·为政》）",
+          "text": "子贡问君子，子曰：“先行其言而后从之。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 806,
+      "sourcename": "《论语·泰伯》",
       "paragraphs": [
         {
-          "text": "③曾子曰：“可以托六尺之孤，可以寄百里之命，临大节而不可夺也。君子人与？君子人也。”（《论语·泰伯》）",
+          "text": "曾子曰：“可以托六尺之孤，可以寄百里之命，临大节而不可夺也。君子人与？君子人也。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 1326,
+      "sourcename": "《论语·子路》",
       "paragraphs": [
         {
-          "text": "④子曰：“君子泰而不骄，小人骄而不泰。”（《论语·子路》）",
+          "text": "子曰：“君子泰而不骄，小人骄而不泰。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 1423,
+      "sourcename": "《论语·宪问》",
       "paragraphs": [
         {
-          "text": "⑤子曰：“君子上达，小人下达。”（《论语·宪问》）",
+          "text": "子曰：“君子上达，小人下达。”",
           "format": {
             "marks": {
               "underline": [
                 {
-                  "start": 5,
-                  "end": 9
+                  "start": 4,
+                  "end": 8
                 }
               ]
             }
@@ -75,10 +85,12 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料⑥",
       "sourceid": 1523,
+      "sourcename": "《论语·卫灵公》",
       "paragraphs": [
         {
-          "text": "⑥子曰：“君子不以言举人，不以人废言。”（《论语·卫灵公》）",
+          "text": "子曰：“君子不以言举人，不以人废言。”",
           "format": {}
         }
       ]

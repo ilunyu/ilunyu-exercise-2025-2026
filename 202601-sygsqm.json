@@ -16,16 +16,18 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 409,
+      "sourcename": "《里仁》",
       "paragraphs": [
         {
-          "text": "①子曰：“士志于道，而耻恶衣恶食者，未足与议也。”（《里仁》）",
+          "text": "子曰：“士志于道，而耻恶衣恶食者，未足与议也。”",
           "format": {
             "marks": {
               "emphasis": [
                 {
-                  "start": 11,
-                  "end": 12
+                  "start": 10,
+                  "end": 11
                 }
               ]
             }
@@ -35,36 +37,42 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1532,
+      "sourcename": "《卫灵公》",
       "paragraphs": [
         {
-          "text": "②子曰：“君子谋道不谋食。耕也，馁在其中矣；学也，禄在其中矣。君子忧道不忧贫。”（《卫灵公》）",
+          "text": "子曰：“君子谋道不谋食。耕也，馁在其中矣；学也，禄在其中矣。君子忧道不忧贫。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 1007,
+      "sourcename": "《乡党》",
       "paragraphs": [
         {
-          "text": "③齐，必有明衣，布【1】。（《乡党》）",
+          "text": "齐，必有明衣，布【1】。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 1008,
+      "sourcename": "《乡党》",
       "paragraphs": [
         {
-          "text": "④食不厌精，脍不厌细。……割不正，不食。……肉虽多，不使胜食气【2】。惟酒无量，不及乱。（《乡党》）",
+          "text": "食不厌精，脍不厌细。……割不正，不食。……肉虽多，不使胜食气【2】。惟酒无量，不及乱。",
           "format": {
             "marks": {
               "emphasis": [
                 {
-                  "start": 3,
-                  "end": 4
+                  "start": 2,
+                  "end": 3
                 }
               ]
             }

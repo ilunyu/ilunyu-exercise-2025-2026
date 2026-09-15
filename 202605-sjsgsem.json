@@ -16,50 +16,60 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 112,
+      "sourcename": "《论语·学而》",
       "paragraphs": [
         {
-          "text": "①有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼节之，亦不可行也。”(《论语·学而》)",
+          "text": "有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼节之，亦不可行也。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 325,
+      "sourcename": "《论语·八佾》",
       "paragraphs": [
         {
-          "text": "②子谓《韶》:“尽美矣，又尽善也。”谓《武》:“尽美矣，未尽善也。”(《论语·八佾》)",
+          "text": "子谓《韶》:“尽美矣，又尽善也。”谓《武》:“尽美矣，未尽善也。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 409,
+      "sourcename": "《论语·里仁》",
       "paragraphs": [
         {
-          "text": "③子曰：“里仁为美。择不处仁，焉得知?”(《论语·里仁》)",
+          "text": "子曰：“里仁为美。择不处仁，焉得知?”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 811,
+      "sourcename": "《论语·泰伯》",
       "paragraphs": [
         {
-          "text": "④子曰：“如有周公之才之美，使骄且吝，其余不足观也已。”(《论语·泰伯》)",
+          "text": "子曰：“如有周公之才之美，使骄且吝，其余不足观也已。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 1216,
+      "sourcename": "《论语·颜渊》",
       "paragraphs": [
         {
-          "text": "⑤子曰：“君子成人之美，不成人之恶；小人反是。”(《论语·颜渊》)",
+          "text": "子曰：“君子成人之美，不成人之恶；小人反是。”",
           "format": {}
         }
       ]

@@ -16,40 +16,48 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 303,
+      "sourcename": "《论语·八佾》",
       "paragraphs": [
         {
-          "text": "①子曰：“人而不仁，如礼何？人而不仁，如乐何？”（《论语·八佾》）",
+          "text": "子曰：“人而不仁，如礼何？人而不仁，如乐何？”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1711,
+      "sourcename": "《论语·阳货》",
       "paragraphs": [
         {
-          "text": "②子曰：“礼云礼云，玉帛云乎哉？乐云乐云，钟鼓云乎哉？”（《论语·阳货》）",
+          "text": "子曰：“礼云礼云，玉帛云乎哉？乐云乐云，钟鼓云乎哉？”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 808,
+      "sourcename": "《论语·泰伯》",
       "paragraphs": [
         {
-          "text": "③子曰：“兴于《诗》，立于礼，成于乐。”（《论语·泰伯》）",
+          "text": "子曰：“兴于《诗》，立于礼，成于乐。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 1605,
+      "sourcename": "《论语·季氏》",
       "paragraphs": [
         {
-          "text": "④孔子曰：“益者三乐，损者三乐。乐节礼乐，乐道人之善，乐多贤友，益矣。乐骄乐，乐佚游，乐宴乐，损矣。”（《论语·季氏》）",
+          "text": "孔子曰：“益者三乐，损者三乐。乐节礼乐，乐道人之善，乐多贤友，益矣。乐骄乐，乐佚游，乐宴乐，损矣。”",
           "format": {}
         }
       ]
