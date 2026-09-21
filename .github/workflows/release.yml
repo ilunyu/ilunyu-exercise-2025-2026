@@ -1,5 +1,6 @@
 name: Publish resource package
 on:
+  workflow_dispatch:
   push:
     tags: ['v*']
 permissions: { contents: write }
